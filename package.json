@@ -15,7 +15,11 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "dotenv": "^16.0.1",
     "gatsby": "^4.17.2",
+    "gatsby-plugin-feed": "^4.17.0",
+    "gatsby-source-rss-feed": "^1.2.2",
+    "gatsby-source-twitter": "^4.0.1",
     "react": "^18.1.0",
     "react-dom": "^18.1.0"
   }
